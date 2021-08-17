@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.565d60b2.chunk.css",
-    "main.js": "/static/js/main.67c3eb5c.chunk.js",
-    "main.js.map": "/static/js/main.67c3eb5c.chunk.js.map",
+    "main.css": "/static/css/main.74448448.chunk.css",
+    "main.js": "/static/js/main.c3ae5e1a.chunk.js",
+    "main.js.map": "/static/js/main.c3ae5e1a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f975ae4c.js",
     "runtime-main.js.map": "/static/js/runtime-main.f975ae4c.js.map",
-    "static/js/2.c4447c4c.chunk.js": "/static/js/2.c4447c4c.chunk.js",
-    "static/js/2.c4447c4c.chunk.js.map": "/static/js/2.c4447c4c.chunk.js.map",
+    "static/js/2.37f91c75.chunk.js": "/static/js/2.37f91c75.chunk.js",
+    "static/js/2.37f91c75.chunk.js.map": "/static/js/2.37f91c75.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.565d60b2.chunk.css.map": "/static/css/main.565d60b2.chunk.css.map",
-    "static/js/2.c4447c4c.chunk.js.LICENSE.txt": "/static/js/2.c4447c4c.chunk.js.LICENSE.txt",
+    "static/css/main.74448448.chunk.css.map": "/static/css/main.74448448.chunk.css.map",
+    "static/js/2.37f91c75.chunk.js.LICENSE.txt": "/static/js/2.37f91c75.chunk.js.LICENSE.txt",
     "static/media/1.9ea40ecb.png": "/static/media/1.9ea40ecb.png",
     "static/media/2.ab2313a8.png": "/static/media/2.ab2313a8.png",
     "static/media/3.d3ad2d28.png": "/static/media/3.d3ad2d28.png",
@@ -21,6 +21,8 @@
     "static/media/logo.86f46556.svg": "/static/media/logo.86f46556.svg",
     "static/media/main-banner.c0d72057.png": "/static/media/main-banner.c0d72057.png",
     "static/media/style.scss": "/static/media/send-arrow.b846073d.svg",
+    "static/media/pool-1.2a47425e.png": "/static/media/pool-1.2a47425e.png",
+    "static/media/pool-2.886b4e7d.png": "/static/media/pool-2.886b4e7d.png",
     "static/media/quote.5801ea9b.svg": "/static/media/quote.5801ea9b.svg",
     "static/media/snezko.96926537.png": "/static/media/snezko.96926537.png",
     "static/media/swim-swimmer.0165dc59.png": "/static/media/swim-swimmer.0165dc59.png",
@@ -30,8 +32,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f975ae4c.js",
-    "static/js/2.c4447c4c.chunk.js",
-    "static/css/main.565d60b2.chunk.css",
-    "static/js/main.67c3eb5c.chunk.js"
+    "static/js/2.37f91c75.chunk.js",
+    "static/css/main.74448448.chunk.css",
+    "static/js/main.c3ae5e1a.chunk.js"
   ]
 }
