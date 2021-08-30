@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.3ae89079.chunk.css",
-    "main.js": "/static/js/main.e90bc571.chunk.js",
-    "main.js.map": "/static/js/main.e90bc571.chunk.js.map",
+    "main.css": "/static/css/main.92511c22.chunk.css",
+    "main.js": "/static/js/main.c3120103.chunk.js",
+    "main.js.map": "/static/js/main.c3120103.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f975ae4c.js",
     "runtime-main.js.map": "/static/js/runtime-main.f975ae4c.js.map",
     "static/js/2.565cdecb.chunk.js": "/static/js/2.565cdecb.chunk.js",
     "static/js/2.565cdecb.chunk.js.map": "/static/js/2.565cdecb.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.3ae89079.chunk.css.map": "/static/css/main.3ae89079.chunk.css.map",
+    "static/css/main.92511c22.chunk.css.map": "/static/css/main.92511c22.chunk.css.map",
     "static/js/2.565cdecb.chunk.js.LICENSE.txt": "/static/js/2.565cdecb.chunk.js.LICENSE.txt",
     "static/media/1.2e0fc490.png": "/static/media/1.2e0fc490.png",
     "static/media/1.dfa3d903.png": "/static/media/1.dfa3d903.png",
@@ -25,7 +25,9 @@
     "static/media/8.26766825.png": "/static/media/8.26766825.png",
     "static/media/9.0f492618.png": "/static/media/9.0f492618.png",
     "static/media/style.scss": "/static/media/send-arrow.b846073d.svg",
-    "static/media/bubbles.01bf0fec.png": "/static/media/bubbles.01bf0fec.png",
+    "static/media/drops-1.b6c25be4.png": "/static/media/drops-1.b6c25be4.png",
+    "static/media/drops-2.fc4f5693.png": "/static/media/drops-2.fc4f5693.png",
+    "static/media/drops-3.88b1c61e.png": "/static/media/drops-3.88b1c61e.png",
     "static/media/drops.e25bf14c.png": "/static/media/drops.e25bf14c.png",
     "static/media/facebook.5b65740c.svg": "/static/media/facebook.5b65740c.svg",
     "static/media/increate-copyright.d2244f91.svg": "/static/media/increate-copyright.d2244f91.svg",
@@ -41,6 +43,7 @@
     "static/media/swim-1.92e504cc.svg": "/static/media/swim-1.92e504cc.svg",
     "static/media/swim-2.6a36f009.svg": "/static/media/swim-2.6a36f009.svg",
     "static/media/swim-circle.3ea632b2.svg": "/static/media/swim-circle.3ea632b2.svg",
+    "static/media/swim-faq.5504f72d.svg": "/static/media/swim-faq.5504f72d.svg",
     "static/media/swim-swimmer.0165dc59.png": "/static/media/swim-swimmer.0165dc59.png",
     "static/media/table-1.ad102e4f.svg": "/static/media/table-1.ad102e4f.svg",
     "static/media/table-2.ae72c88e.svg": "/static/media/table-2.ae72c88e.svg",
@@ -49,7 +52,7 @@
   "entrypoints": [
     "static/js/runtime-main.f975ae4c.js",
     "static/js/2.565cdecb.chunk.js",
-    "static/css/main.3ae89079.chunk.css",
-    "static/js/main.e90bc571.chunk.js"
+    "static/css/main.92511c22.chunk.css",
+    "static/js/main.c3120103.chunk.js"
   ]
 }
